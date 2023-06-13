@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# 简单实现一个可编辑表格功能
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+没有使用antd推荐的ProTable组件
 
-## Available Scripts
-
-In the project directory, you can run:
+针对多张表格动态编辑，每个单元格有四种格式：文本、数字、日期、单选（投票）
 
 ### `npm start`
 

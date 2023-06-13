@@ -1,0 +1,13 @@
+
+.ant-table-row .ant-table-cell{
+    padding: 0;
+    height: 33px;
+}
+.ant-table-column-title #div{
+  max-width: 52px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.ant-table-column-title #svg{
+  align-items: center;
+}
